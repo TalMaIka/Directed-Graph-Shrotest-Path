@@ -11,3 +11,5 @@ main.o: main.c graph.h
 
 graph.o: graph.c graph.h
 	$(CC) $(CFLAGS) -c graph.c
+clean:
+	rm -f *.o prog
