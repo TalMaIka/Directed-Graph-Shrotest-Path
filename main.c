@@ -21,7 +21,7 @@ int main(){
         if(op == 'S'){
             int a,b;
             scanf("%d %d",&a,&b);
-            //shortsPath_cmd(head,a,b);
+            shortsPath_cmd(head,a,b);
         }
         if(op == 'T'){
            //Unfortunately we didn't made TSP method right, after spending hours and days on it. 
