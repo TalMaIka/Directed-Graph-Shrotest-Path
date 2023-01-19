@@ -26,6 +26,6 @@ int main(){
         if(op == 'T'){
            //Unfortunately we didn't made TSP method right, after spending hours and days on it. 
         }
-   printGraph(head);
+  // printGraph(head);
 }
 }
